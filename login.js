@@ -9,3 +9,7 @@ function mostraNome(nome){
 function mostraSobrenome(sobrenome){
     return sobrenome;
 }
+
+function mostraEndereco(endereco){
+    return endereco;
+}
