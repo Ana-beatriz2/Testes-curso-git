@@ -1,4 +1,3 @@
-
 // Pegando o email e cadastrando na plataforma
 
 function singUp(email){
