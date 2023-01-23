@@ -23,8 +23,8 @@ Esse é um repositório destinado a aplicar o que aprendo nas aulas do curso Git
 - [x] Aprendendo sobre Branches
 - [x] Evoluindo com Git
 - [x] Github profissional
-- [] Dominando Markdown
-- [] Github pages
+- [ ] Dominando Markdown
+- [ ] Github pages
 
 ## Alguns testes 
 
