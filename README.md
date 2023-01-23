@@ -1,6 +1,6 @@
 ![Logo do git](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png)
 
-[Descrição](#descrição) | [Alguns testes](#alguns-testes)
+[Descrição](#descrição) | [Alguns testes](#alguns-testes) | [Trabalhando com tabelas](#trabalhando-com-tabelas)
 # Descrição
 
 Esse é um repositório destinado a aplicar o que aprendo nas aulas do curso Git e Github. Entre os assuntos estudados, estão: 
@@ -24,7 +24,7 @@ Esse é um repositório destinado a aplicar o que aprendo nas aulas do curso Git
 - [x] Aprendendo sobre Branches
 - [x] Evoluindo com Git
 - [x] Github profissional
-- [ ] Dominando Markdown
+- [x] Dominando Markdown
 - [ ] Github pages
 
 ## Alguns testes 
