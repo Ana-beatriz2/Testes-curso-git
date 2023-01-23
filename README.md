@@ -1,5 +1,6 @@
 ![Logo do git](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png)
 
+[Descrição](#descrição) | [Alguns testes](#alguns-testes)
 # Descrição
 
 Esse é um repositório destinado a aplicar o que aprendo nas aulas do curso Git e Github. Entre os assuntos estudados, estão: 
@@ -23,8 +24,8 @@ Esse é um repositório destinado a aplicar o que aprendo nas aulas do curso Git
 - [x] Aprendendo sobre Branches
 - [x] Evoluindo com Git
 - [x] Github profissional
-- [] Dominando Markdown
-- [] Github pages
+- [ ] Dominando Markdown
+- [ ] Github pages
 
 ## Alguns testes 
 
@@ -41,6 +42,7 @@ yarn dev
         return 
     }
 ```
+## Trabalhando com tabelas
 
 Propriedade | Descrição
 ----------- | ----------
