@@ -25,7 +25,7 @@ Esse é um repositório destinado a aplicar o que aprendo nas aulas do curso Git
 - [x] Evoluindo com Git
 - [x] Github profissional
 - [x] Dominando Markdown
-- [ ] Github pages
+- [x] Github pages
 
 ## Alguns testes 
 
